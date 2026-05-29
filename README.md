@@ -1,4 +1,4 @@
-# dev-atlas
+#code-nexus
 
 > Unified workspace for all projects, experiments, and development work. One repository, complete history, zero fragmentation.
 
@@ -23,5 +23,6 @@ All changes follow a structured branching strategy to preserve history integrity
 
 ## Quick Start
 ```bash
-git clone https://github.com/Abhishek-00316/dev-atlas.git
-cd dev-atlas
+git clone https://github.com/Abhishek-00316/code-nexus.git
+cd code-nexus
+
